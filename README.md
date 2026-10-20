@@ -1,5 +1,7 @@
 # 🏎️ Forza Motorsport 5 - PC Port
 
+![Forza Motorsport 5 Port Banner](assets/FM5.png)
+
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/AdrianFawkes/fm5-port?style=flat-square)
 ![Platform](https://img.shields.io/badge/platform-Windows-blue?style=flat-square)
 ![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
